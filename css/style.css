@@ -33,7 +33,7 @@ img{max-width:100%;}
     src: url( '../fonts/Amble-Light-webfont.ttf ') format("truetype"); 
 }
 body {
-	font-family: 'AmbleRegular';
+	font-family: Arial;
 	font-size: 100%;
 	color: #555;
 	border-top:8px solid #ba3d0c;
@@ -148,7 +148,7 @@ body {
 	margin-left: 2.33%;
 }
 .lb-album {
-	font-family: 'AmbleRegular';
+	font-family: Arial;
 	margin: 0 auto;
 }
 .lb-album li {
