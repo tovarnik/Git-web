@@ -9,17 +9,18 @@
 <body>
 <div class="wrap">
 <div class="header-right">
-	<div class="logo">
-		<a href="index.html"><img src="images/logo.png" alt="" /> </a>
-	</div>
+<!-- logo -->
+<?php
+include 'logo.php';
+?>
 	<div class="menu">
 		<ul class="nav">
 		<!--	<li class="active"><a href="index.html">Index</a></li>  -->
-			<li><a href="urbex.html">Urbex</a></li>	
-			<li><a href="lide.html">Lidé</a></li>
-			<li><a href="volna.html">Volná tvorba</a></li>
-			<li><a href="blog.html">Blog</a></li>
-			<li><a href="contact.html">Contact</a></li>
+		<li><a href="urbex.php">Urbex</a></li>
+		<li><a href="lide.php">Lidé</a></li>
+		<li><a href="volna.php">Volná tvorba</a></li>
+		<li><a href="blog.php">Blog</a></li>
+		<li><a href="contact.php">Contact</a></li>
 		</ul>
 	</div>
 	<div class="clear"></div>
@@ -39,7 +40,6 @@
 								<h3>portrét</h3>
 								<p>fotografie v ateliéru</p>
 							</div>
-							
 						</div>
 					</li>
 					<li>
@@ -52,7 +52,6 @@
 							<div>							
 								<h3>portrét</h3>
 								<p>fotografie v exteriéru</p>
-
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -211,41 +210,14 @@
 			<a href="details.html"><button class="btn btn-3 btn-3e icon-arrow-right">Přejít do galerie</button></a>
 		</div>
 	</div>
-
 	<div class="clear"></div>
 </div>
 </div>
 <div class="clear"></div>
 </div>
-<div class="footer-bg">
-<div class="wrap"> 
-<div class="f-main">
-<div class="f-icons">
-	<nav>
-	<ul>
-		<li><a href="#"><img src="images/fb.png" title="facebook" alt=""></a></li>
-		<li><a href="#"><img src="images/plus.png" title="pinterest" alt=""></a></li>
-	</ul>
-	</nav>
-</div>
-<div class="f-grid">
-	<nav>	
-		<ul>
-			<li><a href="">Napište nám</a></li>
-		</ul>
-	</nav>
-</div>
-
-<div class="clear"></div>
-</div>
-</div>
-</div>
-<div class="ftr-bg">
-	<div class="wrap"> 
-		<div class="footer">
-				<p class="w3-link"><span>&copy; 2018 Černá Komora.cz</p>
-		</div>
-	</div>
-</div>
+<!-- footer -->
+<?php
+include 'footer.php';
+ ?>
 </body>
 </html>

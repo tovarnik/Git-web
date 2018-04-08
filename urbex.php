@@ -15,18 +15,19 @@
 <body>
 <div class="wrap">
 <div class="header-right">
-	<div class="logo">
-		<a href="index.html"><img src="images/logo.png" alt="" /> </a>
-	</div>
+	<!-- logo -->
+	<?php
+	include 'logo.php';
+	?>
 	<div class="menu">
 		<ul class="nav">
 		<!--	<li class="active"><a href="index.html">Index</a></li>
  -->
-			<li class="active"><a href="urbex.html">Urbex</a></li>
-			<li><a href="lide.html">Lidé</a></li>
-			<li><a href="volna.html">Volná tvorba</a></li>
-			<li><a href="blog.html">Blog</a></li>
-			<li><a href="contact.html">Contact</a></li>
+			<li class="active"><a href="urbex.php">Urbex</a></li>
+			<li><a href="lide.php">Lidé</a></li>
+			<li><a href="volna.php">Volná tvorba</a></li>
+			<li><a href="blog.php">Blog</a></li>
+			<li><a href="contact.php">Contact</a></li>
 		</ul>
 	</div>
 	<div class="clear"></div>
@@ -223,36 +224,12 @@
 </div>
 <div class="clear"></div>
 </div>
-<div class="footer-bg">
-<div class="wrap">
-<div class="f-main">
-<div class="f-icons">
-<h4>Sledujte nás</h4>
-	<nav>
-	<ul>
-		<li><a href="https://www.facebook.com/Urbex-Shoot-149469792375008/"><img src="images/fb.png" title="facebook" alt=""></a></li>
-		<li><a href="https://www.instagram.com/standa_jonak/"><img src="images/instagram.png" title="instagram" alt=""></a></li>
-	</ul>
-	</nav>
-</div>
-<div class="f-grid">
 
-</div>
 
-<div class="f-grid">
-</div>
-
-<div class="clear"></div>
-</div>
-</div>
-</div>
-<div class="ftr-bg">
-	<div class="wrap">
-		<div class="footer">
-				<p class="w3-link"><span>&copy; 2013 photo_on. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
-		</div>
-	</div>
-</div>
+<!-- footer -->
+<?php
+include 'footer.php';
+ ?>
 
 <script type="text/javascript">
 		jQuery(document).ready(function(){
