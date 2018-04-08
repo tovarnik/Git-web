@@ -31,27 +31,25 @@ include 'logo.php';
 					<li>
 						<a href="#image-1">
 							<img src="images/thumbs/1.jpg" alt="image01">
-							<span>portrét</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-1">
 							<a href="#page" class="lb-close">x Zavřít</a>
 							<img src="images/full/1.jpg" alt="image01" />
 							<div>
-								<h3>portrét</h3>
-								<p>fotografie v ateliéru</p>
+
 							</div>
 						</div>
 					</li>
 					<li>
 						<a href="#image-2">
 							<img src="images/thumbs/2.jpg" alt="image02">
-							<span>portrét</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-2">
 							<img src="images/full/2.jpg" alt="image02" />
 							<div>							
-								<h3>portrét</h3>
-								<p>fotografie v exteriéru</p>
+
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -59,13 +57,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-3">
 							<img src="images/thumbs/3.jpg" alt="image03">
-							<span>portrét</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-3">
 							<img src="images/full/3.jpg" alt="image03" />
 							<div>							
-								<h3>portrét</h3>
-								<p>fotografie v interiéru</p>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -73,13 +69,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-4">
 							<img src="images/thumbs/4.jpg" alt="image04">
-							<span>portrét</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-4">
 							<img src="images/full/4.jpg" alt="image04" />
 							<div>							
-								<h3>focení v exteriéru</h3>
-									<p>fotografie v exteriéru</p>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -87,13 +81,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-5">
 							<img src="images/thumbs/5.jpg" alt="image05">
-							<span>město</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-5">
 							<img src="images/full/5.jpg" alt="image05" />
 							<div>							
-								<h3>město</h3>
-								<p>město kde žijeme</p>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -101,13 +93,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-6">
 							<img src="images/thumbs/6.jpg" alt="image06">
-							<span>portrét</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-6">
 							<img src="images/full/6.jpg" alt="image06" />
 							<div>							
-								<h3>portrét</h3>
-								<p>fotografie v interiéru</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
@@ -115,13 +105,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-7">
 							<img src="images/thumbs/7.jpg" alt="image07">
-							<span>urbex</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-7">
 							<img src="images/full/7.jpg" alt="image07" />
 							<div>							
-								<h3>urbex</h3>
-								<p>výlet do minulosti</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
@@ -129,13 +117,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-8">
 							<img src="images/thumbs/8.jpg" alt="image08">
-							<span>město</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-8">
 							<img src="images/full/8.jpg" alt="image08" />
 							<div>							
-								<h3>město</h3>
-								<p>město kde žijeme</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
@@ -143,13 +129,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-9">
 							<img src="images/thumbs/9.jpg" alt="image09">
-							<span>experimenty</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-9">
 							<img src="images/full/9.jpg" alt="image09" />
 							<div>							
-								<h3>experimenty</h3>
-								<p>volná tvorba</p>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -157,13 +141,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-10">
 							<img src="images/thumbs/10.jpg" alt="image10">
-							<span>urbex</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-10">
 							<img src="images/full/10.jpg" alt="image10" />
-							<div>							
-								<h3>urbex</h3>
-								<p>kdysi tu pracovalo desítky lidí</p>
+							<div>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -171,13 +153,11 @@ include 'logo.php';
 					<li>
 						<a href="#image-11">
 							<img src="images/thumbs/11.jpg" alt="image10">
-							<span>město</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-11">
 							<img src="images/full/11.jpg" alt="image10" />
-							<div>							
-								<h3>město</h3>
-								<p>art na každém rohu</p>
+							<div>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -185,13 +165,11 @@ include 'logo.php';
 										<li>
 						<a href="#image-12">
 							<img src="images/thumbs/12.jpg" alt="image10">
-							<span>umění v ulicích</span>
+							<span></span>
 						</a>
 						<div class="lb-overlay" id="image-12">
 							<img src="images/full/12.jpg" alt="image10" />
-							<div>							
-								<h3>umění v ulicích</h3>
-								<p>graffiti</p>
+							<div>
 							</div>
 							<a href="#page" class="lb-close">x Zavřít</a>
 						</div>
@@ -201,14 +179,24 @@ include 'logo.php';
 			<div class="clear"></div>
 <div class="main">
 	<div class="content">
-		<h2>Nejnovější galerie</h2>
+		<h2>Nejnovější články</h2>
+
 		<div class="banner">
 			<a href="details.html"><img src="images/pic1.jpg" alt=""></a>
 		</div>
-		<p class="para-top">Výlet do bývalé elektrárny dolu Schoeller. </p>
+		<p class="para-top">Bývalá elektrárna dolu Schoeller. </p>
 		<div class="readmore">
 			<a href="details.html"><button class="btn btn-3 btn-3e icon-arrow-right">Přejít do galerie</button></a>
 		</div>
+
+		<div class="banner">
+			<a href="details.html"><img src="images/pic1.jpg" alt=""></a>
+		</div>
+		<p class="para-top">Bývalá elektrárna dolu Schoeller. </p>
+		<div class="readmore">
+			<a href="details.html"><button class="btn btn-3 btn-3e icon-arrow-right">Přejít do galerie</button></a>
+		</div>
+		
 	</div>
 	<div class="clear"></div>
 </div>

@@ -247,7 +247,7 @@ body {
 	width: 260px;
 }
 .lb-overlay a.lb-close {
-	font-family: 'AmbleRegular';
+	font-family: Arial;
 	font-size: 0.924em;
 	padding: 4px;
 	background: rgba(64, 72, 109, 0.61);
