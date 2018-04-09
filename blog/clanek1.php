@@ -10,6 +10,12 @@
 <script type='text/javascript' src='../js/unitegallery.min.js'></script>
 <link rel='stylesheet' href='../css/unite-gallery.css' type='text/css' />
 <script type='text/javascript' src='../js/ug-theme-tiles.js'></script></head>
+<style>
+.details {margin-bottom: 20px}
+
+</style>
+
+
 <body>
 <div class="wrap">
 <div class="header-right">
