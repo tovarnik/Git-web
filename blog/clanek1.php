@@ -36,9 +36,6 @@
 	<div class="content">	</div>
 	<div class="details">
 		<h2>Bývalá elektrárna dolu Schoeller</h2>
-		<div class="det-pic">
-			<img src="images/clanek1/hlavni.jpg" alt="">
-		</div>
  	<div class="det-para">
 			<p class="top">
 				Elektrárna vznikla roku 1930 hned vedle hlubinného dolu a tím pádem byla zásobována uhlím přímo z vlastních zdrojů.
@@ -49,26 +46,53 @@
 		</div>
 
 
-
-																<div id="gallery" style="display:none;">			<a href="http://unitegallery.net">
+	<div id="gallery" style="display:none;">
+		<a href="http://unitegallery.net">
 			<img alt="Lemon Slice"
-					 src="images/galerie/urbex/thumbs/1.jpg"
-					 data-image="images/galerie/urbex/1.jpg"
+					 src="clanek1/clanek1/thumbs/1.jpg"
+					 data-image="clanek1/1.jpg"
 					 data-description="This is a Lemon Slice"
 					 style="display:none">
-			</a>			<a href="http://unitegallery.net">
-			<img alt="Peppers"
-					 src="images/galerie/urbex/thumbs/2.jpg"
-					 data-image="images/galerie/urbex/2.jpg"
-					 data-description="Those are peppers"
+		</a>
+
+		<a href="http://unitegallery.net">
+			<img alt="Lemon Slice"
+					 src="clanek1/thumbs/2.jpg"
+					 data-image="clanek1/2.jpg"
+					 data-description="This is a Lemon Slice"
 					 style="display:none">
-			</a>			<a href="http://unitegallery.net">
-			<img alt="Keys"
-					 src="images/galerie/urbex/thumbs/3.jpg"
-					 data-image="images/galerie/urbex/3.jpg"
-					 data-description="Those are keys"
+		</a>
+
+		<a href="http://unitegallery.net">
+			<img alt="Lemon Slice"
+					 src="clanek1/thumbs/3.jpg"
+					 data-image="clanek1/3.jpg"
+					 data-description="This is a Lemon Slice"
 					 style="display:none">
-			</a></div>	<div class="clear"></div>
+		</a>
+
+		<a href="http://unitegallery.net">
+			<img alt="Lemon Slice"
+					 src="clanek1/thumbs/4.jpg"
+					 data-image="clanek1/4.jpg"
+					 data-description="This is a Lemon Slice"
+					 style="display:none">
+		</a>
+
+		<a href="http://unitegallery.net">
+			<img alt="Lemon Slice"
+					 src="clanek1/thumbs/5.jpg"
+					 data-image="clanek1/5.jpg"
+					 data-description="This is a Lemon Slice"
+					 style="display:none">
+		</a>
+
+
+
+
+
+
+		</div>	<div class="clear"></div>
 </div>
 </div>
 <div class="clear"></div>
