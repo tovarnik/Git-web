@@ -332,7 +332,7 @@ x:-o-prefocus, .lb-overlay img {
 }
 .main{
 	margin-top:1,5%;
-	background: #2b2b2b;
+	background: #000000;
 	padding: 1%;
 }
 .content{
@@ -708,7 +708,6 @@ x:-o-prefocus, .lb-overlay img {
 }
 /*details*/
 .details h2 {
-	text-transform: capitalize;
 	font-size: 1.6em;
 	color: #fff;
 }
