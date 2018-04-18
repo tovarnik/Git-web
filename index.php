@@ -177,29 +177,7 @@ include 'logo.php';
 				</ul>
 			</section>
 			<div class="clear"></div>
-<div class="main">
-	<div class="content">
-		<h2>Nejnovější galerie</h2>
 
-		<div class="banner">
-			<a href="blog/clanek1.php"><img src="images/pic1.jpg" alt=""></a>
-		</div>
-		<p class="para-top">Bývalá elektrárna dolu Schoeller. </p>
-		<div class="readmore">
-			<a href="blog/clanek1.php"><button class="btn btn-3 btn-3e icon-arrow-right">Přejít do galerie</button></a>
-		</div>
-
-		<div class="banner">
-			<a href="blog/clanek2.php"><img src="images/pic1.jpg" alt=""></a>
-		</div>
-		<p class="para-top">Bývalá elektrárna dolu Schoeller. </p>
-		<div class="readmore">
-			<a href="blog/clanek2.php"><button class="btn btn-3 btn-3e icon-arrow-right">Přejít do galerie</button></a>
-		</div>
-
-	</div>
-	<div class="clear"></div>
-</div>
 </div>
 <div class="clear"></div>
 </div>
